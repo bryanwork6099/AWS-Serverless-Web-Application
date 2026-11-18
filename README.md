@@ -1,4 +1,4 @@
-# End-to-End Web Application: Power of Math
+# End-to-End Web Application
 
 A serverless web application built using AWS services that allows users to calculate mathematical powers (exponents) through a simple web interface. The application processes calculations using AWS Lambda and stores the results in Amazon DynamoDB.
 
