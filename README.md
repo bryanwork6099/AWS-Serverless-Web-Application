@@ -127,6 +127,26 @@ Your result is 256.0
 
 The calculation result is also stored in Amazon DynamoDB for verification.
 
+## Project Results
+
+The application was successfully deployed and tested using AWS Amplify, Amazon API Gateway, AWS Lambda, and Amazon DynamoDB.
+
+The final application allows users to submit mathematical calculations through the web interface and receive the computed result.
+
+### Final Application Output
+
+![Power of Math - Final Application Results](./images/results.png)
+
+**Test Scenario:**
+
+| Input | Value |
+|---|---|
+| Base Number | 2 |
+| Exponent | 8 |
+| Expected Result | 256.0 |
+
+**Outcome:** Successfully calculated the mathematical result and stored the corresponding data in Amazon DynamoDB.
+
 ## Project Objectives
 
 Through this project, I gained practical experience in:
